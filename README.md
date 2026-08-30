@@ -1,4 +1,4 @@
-# PowerBoost Magisk Module
+# PowerBoost - A Magisk Module designed to optimize your device
 
 ## **Description:**
 PowerBoost is a Magisk module designed to enhance battery life by optimizing power consumption on your Android device. It achieves this by adjusting system parameters like CPU frequencies, screen timeout settings, and disabling unused sensors, all of which help reduce power usage without sacrificing performance. This module is ideal for users who want to maximize their device's battery life while maintaining a smooth user experience.
